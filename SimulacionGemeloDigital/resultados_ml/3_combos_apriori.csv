@@ -1,0 +1,235 @@
+Antecedente,Consecuente,support,confidence,lift
+"Huevo Blanco Mediano, Huevo Extra Grande, Huevo Rojo Grande, Huevo Rojo Mediano",Huevo Blanco Grande,0.014225106064387321,0.7808219178082192,12.465153086284996
+Huevo Blanco Grande,"Huevo Blanco Mediano, Huevo Extra Grande, Huevo Rojo Grande, Huevo Rojo Mediano",0.014225106064387321,0.22709163346613542,12.465153086284996
+"Huevo Blanco Mediano, Huevo Rojo Grande, Huevos Pequeños Economicos Rojos, Huevo Rojo Mediano",Huevo Blanco Grande,0.013226853007237334,0.670886075949367,10.710121539159815
+Huevo Blanco Grande,"Huevo Blanco Mediano, Huevo Rojo Grande, Huevos Pequeños Economicos Rojos, Huevo Rojo Mediano",0.013226853007237334,0.21115537848605576,10.710121539159815
+Huevo Blanco Grande,"Huevo Blanco Mediano, Huevo Rojo Grande, Huevo Rojo Mediano",0.044671824307461944,0.7131474103585658,9.129653908328349
+"Huevo Blanco Mediano, Huevo Rojo Grande, Huevo Rojo Mediano",Huevo Blanco Grande,0.044671824307461944,0.5718849840255591,9.129653908328347
+"Huevo Blanco Mediano, Huevo Rojo Grande, Huevo Rojo Mediano","Huevos Pequeños Economicos Rojos, Huevo Blanco Grande",0.013226853007237334,0.16932907348242812,8.27440972492792
+"Huevos Pequeños Economicos Rojos, Huevo Blanco Grande","Huevo Blanco Mediano, Huevo Rojo Grande, Huevo Rojo Mediano",0.013226853007237334,0.646341463414634,8.274409724927919
+"Huevo Blanco Mediano, Huevo Rojo Grande, Huevo Rojo Mediano","Huevo Extra Grande, Huevo Blanco Grande",0.014225106064387321,0.18210862619808307,8.198980507592346
+"Huevo Extra Grande, Huevo Blanco Grande","Huevo Blanco Mediano, Huevo Rojo Grande, Huevo Rojo Mediano",0.014225106064387321,0.6404494382022471,8.198980507592346
+"Huevo Rojo Grande, Huevo Extra Grande, Huevo Rojo Mediano",Huevo Blanco Grande,0.01697030197154979,0.4563758389261745,7.285649348913072
+Huevo Blanco Grande,"Huevo Rojo Grande, Huevo Extra Grande, Huevo Rojo Mediano",0.01697030197154979,0.27091633466135456,7.285649348913071
+"Huevo Rojo Grande, Huevo Blanco Grande","Huevo Blanco Mediano, Huevo Extra Grande, Huevo Rojo Mediano",0.014225106064387321,0.22799999999999998,7.250761904761905
+"Huevo Blanco Mediano, Huevo Extra Grande, Huevo Rojo Mediano","Huevo Rojo Grande, Huevo Blanco Grande",0.014225106064387321,0.4523809523809524,7.250761904761904
+Huevo Blanco Grande,"Huevo Blanco Mediano, Huevo Extra Grande, Huevo Rojo Mediano",0.014225106064387321,0.22709163346613542,7.221874407133371
+"Huevo Blanco Mediano, Huevo Extra Grande, Huevo Rojo Mediano",Huevo Blanco Grande,0.014225106064387321,0.4523809523809524,7.221874407133371
+"Huevo Rojo Grande, Huevos Pequeños Economicos Rojos, Huevo Rojo Mediano",Huevo Blanco Grande,0.015722485650112302,0.4405594405594405,7.033154096899116
+Huevo Blanco Grande,"Huevo Rojo Grande, Huevos Pequeños Economicos Rojos, Huevo Rojo Mediano",0.015722485650112302,0.2509960159362549,7.033154096899115
+"Huevo Rojo Grande, Huevo Extra Grande, Huevo Rojo Mediano","Huevo Blanco Mediano, Huevo Blanco Grande",0.014225106064387321,0.38255033557046975,6.999448377309919
+"Huevo Blanco Mediano, Huevo Blanco Grande","Huevo Rojo Grande, Huevo Extra Grande, Huevo Rojo Mediano",0.014225106064387321,0.2602739726027397,6.999448377309919
+"Huevo Rojo Grande, Huevos Pequeños Economicos Rojos, Huevo Rojo Mediano","Huevo Blanco Mediano, Huevo Blanco Grande",0.013226853007237334,0.3706293706293706,6.781332822428713
+"Huevo Blanco Mediano, Huevo Blanco Grande","Huevo Rojo Grande, Huevos Pequeños Economicos Rojos, Huevo Rojo Mediano",0.013226853007237334,0.2420091324200913,6.781332822428712
+"Huevo Rojo Grande, Huevo Blanco Grande","Huevo Blanco Mediano, Huevos Pequeños Economicos Rojos, Huevo Rojo Mediano",0.013226853007237334,0.212,6.292474074074073
+"Huevo Blanco Mediano, Huevos Pequeños Economicos Rojos, Huevo Rojo Mediano","Huevo Rojo Grande, Huevo Blanco Grande",0.013226853007237334,0.39259259259259255,6.292474074074073
+"Huevo Blanco Mediano, Huevos Pequeños Economicos Rojos, Huevo Rojo Mediano",Huevo Blanco Grande,0.013226853007237334,0.39259259259259255,6.267404456249077
+Huevo Blanco Grande,"Huevo Blanco Mediano, Huevos Pequeños Economicos Rojos, Huevo Rojo Mediano",0.013226853007237334,0.21115537848605576,6.267404456249077
+Huevo Blanco Grande,"Huevo Blanco Mediano, Huevo Extra Grande, Huevo Rojo Grande",0.018717244821562267,0.29880478087649404,5.812188140641319
+"Huevo Blanco Mediano, Huevo Extra Grande, Huevo Rojo Grande",Huevo Blanco Grande,0.018717244821562267,0.3640776699029127,5.812188140641319
+Huevo Blanco Grande,"Huevo Blanco Mediano, Huevo Rojo Grande, Huevos Pequeños Economicos Rojos",0.017219865235837285,0.2749003984063745,5.480228340369863
+"Huevo Blanco Mediano, Huevo Rojo Grande, Huevos Pequeños Economicos Rojos",Huevo Blanco Grande,0.017219865235837285,0.34328358208955223,5.480228340369863
+"Huevo Blanco Mediano, Huevo Extra Grande, Huevo Rojo Grande","Huevo Rojo Mediano, Huevo Blanco Grande",0.014225106064387321,0.2766990291262136,5.4084537058962825
+"Huevo Rojo Mediano, Huevo Blanco Grande","Huevo Blanco Mediano, Huevo Extra Grande, Huevo Rojo Grande",0.014225106064387321,0.27804878048780485,5.408453705896282
+"Huevo Rojo Grande, Huevo Rojo Mediano","Huevo Blanco Mediano, Huevo Blanco Grande",0.044671824307461944,0.2915309446254072,5.334084452575373
+"Huevo Blanco Mediano, Huevo Blanco Grande","Huevo Rojo Grande, Huevo Rojo Mediano",0.044671824307461944,0.817351598173516,5.334084452575372
+Huevo Blanco Grande,"Huevo Rojo Grande, Huevo Rojo Mediano",0.05116046917893686,0.8167330677290836,5.3300478866293775
+"Huevo Rojo Grande, Huevo Rojo Mediano",Huevo Blanco Grande,0.05116046917893686,0.3338762214983713,5.3300478866293775
+"Huevo Rojo Mediano, Huevo Blanco Grande","Huevo Blanco Mediano, Huevo Rojo Grande, Huevos Pequeños Economicos Rojos",0.013226853007237334,0.25853658536585367,5.154010435626744
+"Huevo Blanco Mediano, Huevo Rojo Grande, Huevos Pequeños Economicos Rojos","Huevo Rojo Mediano, Huevo Blanco Grande",0.013226853007237334,0.26368159203980096,5.154010435626744
+"Huevo Blanco Mediano, Huevo Rojo Mediano","Huevo Rojo Grande, Huevo Blanco Grande",0.044671824307461944,0.3129370629370629,5.015755244755244
+"Huevo Rojo Grande, Huevo Blanco Grande","Huevo Blanco Mediano, Huevo Rojo Mediano",0.044671824307461944,0.716,5.015755244755244
+"Huevo Rojo Grande, Huevo Rojo Mediano","Huevos Pequeños Economicos Rojos, Huevo Blanco Grande",0.015722485650112302,0.1026058631921824,5.01392309525701
+"Huevos Pequeños Economicos Rojos, Huevo Blanco Grande","Huevo Rojo Grande, Huevo Rojo Mediano",0.015722485650112302,0.7682926829268292,5.01392309525701
+"Huevo Rojo Grande, Huevo Rojo Mediano","Huevo Blanco Mediano, Huevos Pequeños Economicos Rojos, Huevo Blanco Grande",0.013226853007237334,0.08631921824104234,5.012769673795024
+"Huevo Blanco Mediano, Huevos Pequeños Economicos Rojos, Huevo Blanco Grande","Huevo Rojo Grande, Huevo Rojo Mediano",0.013226853007237334,0.7681159420289855,5.012769673795024
+Huevo Blanco Grande,"Huevo Blanco Mediano, Huevo Rojo Mediano",0.044671824307461944,0.7131474103585658,4.995772156130722
+"Huevo Blanco Mediano, Huevo Rojo Mediano",Huevo Blanco Grande,0.044671824307461944,0.3129370629370629,4.995772156130721
+"Huevo Extra Grande, Huevo Blanco Grande","Huevo Rojo Grande, Huevo Rojo Mediano",0.01697030197154979,0.7640449438202247,4.986202100794202
+"Huevo Rojo Grande, Huevo Rojo Mediano","Huevo Extra Grande, Huevo Blanco Grande",0.01697030197154979,0.11074918566775244,4.986202100794202
+"Huevo Rojo Grande, Huevo Rojo Mediano","Huevo Blanco Mediano, Huevo Extra Grande, Huevo Blanco Grande",0.014225106064387321,0.09283387622149836,4.959804560260586
+"Huevo Blanco Mediano, Huevo Extra Grande, Huevo Blanco Grande","Huevo Rojo Grande, Huevo Rojo Mediano",0.014225106064387321,0.7599999999999999,4.959804560260586
+"Huevo Rojo Mediano, Huevo Blanco Grande","Huevo Blanco Mediano, Huevo Rojo Grande",0.044671824307461944,0.8731707317073172,4.709010931293702
+"Huevo Blanco Mediano, Huevo Rojo Grande","Huevo Rojo Mediano, Huevo Blanco Grande",0.044671824307461944,0.24091520861372814,4.709010931293701
+Huevo Blanco Grande,"Huevo Blanco Mediano, Huevo Rojo Grande",0.054654354878961815,0.8725099601593624,4.7054473894462525
+"Huevo Blanco Mediano, Huevo Rojo Grande",Huevo Blanco Grande,0.054654354878961815,0.29475100942126514,4.7054473894462525
+"Huevo Extra Grande, Huevo Blanco Grande","Huevo Blanco Mediano, Huevo Rojo Grande",0.018717244821562267,0.8426966292134831,4.544664055529512
+"Huevo Blanco Mediano, Huevo Rojo Grande","Huevo Extra Grande, Huevo Blanco Grande",0.018717244821562267,0.10094212651413191,4.544664055529512
+"Huevos Pequeños Economicos Rojos, Huevo Blanco Grande","Huevo Blanco Mediano, Huevo Rojo Grande",0.017219865235837285,0.8414634146341463,4.5380133276433705
+"Huevo Blanco Mediano, Huevo Rojo Grande","Huevos Pequeños Economicos Rojos, Huevo Blanco Grande",0.017219865235837285,0.09286675639300135,4.5380133276433705
+"Huevo Rojo Mediano, Huevos Pequeños Economicos Rojos, Huevo Blanco Grande","Huevo Blanco Mediano, Huevo Rojo Grande",0.013226853007237334,0.8412698412698413,4.536969386229145
+"Huevo Blanco Mediano, Huevo Rojo Grande","Huevo Rojo Mediano, Huevos Pequeños Economicos Rojos, Huevo Blanco Grande",0.013226853007237334,0.07133243606998654,4.536969386229145
+"Huevo Rojo Grande, Huevos Pequeños Economicos Rojos, Huevo Blanco Grande","Huevo Blanco Mediano, Huevo Rojo Mediano",0.013226853007237334,0.646341463414634,4.527780146682585
+"Huevos Pequeños Economicos Rojos, Huevo Blanco Grande","Huevo Blanco Mediano, Huevo Rojo Mediano",0.013226853007237334,0.646341463414634,4.527780146682585
+"Huevo Blanco Mediano, Huevo Rojo Mediano","Huevos Pequeños Economicos Rojos, Huevo Blanco Grande",0.013226853007237334,0.09265734265734266,4.527780146682585
+"Huevo Blanco Mediano, Huevo Rojo Mediano","Huevo Rojo Grande, Huevos Pequeños Economicos Rojos, Huevo Blanco Grande",0.013226853007237334,0.09265734265734266,4.527780146682585
+"Huevo Rojo Mediano, Huevo Extra Grande, Huevo Blanco Grande","Huevo Blanco Mediano, Huevo Rojo Grande",0.014225106064387321,0.838235294117647,4.520604069353179
+"Huevo Blanco Mediano, Huevo Rojo Grande","Huevo Rojo Mediano, Huevo Extra Grande, Huevo Blanco Grande",0.014225106064387321,0.07671601615074024,4.520604069353178
+"Huevo Rojo Grande, Huevo Extra Grande, Huevo Blanco Grande","Huevo Blanco Mediano, Huevo Rojo Mediano",0.014225106064387321,0.6404494382022471,4.486505067965741
+"Huevo Blanco Mediano, Huevo Rojo Mediano","Huevo Extra Grande, Huevo Blanco Grande",0.014225106064387321,0.09965034965034963,4.486505067965741
+"Huevo Extra Grande, Huevo Blanco Grande","Huevo Blanco Mediano, Huevo Rojo Mediano",0.014225106064387321,0.6404494382022471,4.486505067965741
+"Huevo Blanco Mediano, Huevo Rojo Mediano","Huevo Rojo Grande, Huevo Extra Grande, Huevo Blanco Grande",0.014225106064387321,0.09965034965034963,4.486505067965741
+Huevo Blanco Grande,"Huevo Rojo Grande, Huevo Extra Grande",0.022211130521587224,0.3545816733067729,2.960018260292165
+"Huevo Rojo Grande, Huevo Extra Grande",Huevo Blanco Grande,0.022211130521587224,0.18541666666666667,2.9600182602921645
+"Huevo Rojo Grande, Huevo Extra Grande","Huevo Blanco Mediano, Huevo Blanco Grande",0.018717244821562267,0.15625,2.858875570776256
+"Huevo Blanco Mediano, Huevo Blanco Grande","Huevo Rojo Grande, Huevo Extra Grande",0.018717244821562267,0.34246575342465757,2.858875570776256
+"Huevo Rojo Mediano, Huevo Blanco Grande","Huevo Rojo Grande, Huevo Extra Grande",0.01697030197154979,0.33170731707317075,2.7690650406504065
+"Huevo Rojo Grande, Huevo Extra Grande","Huevo Rojo Mediano, Huevo Blanco Grande",0.01697030197154979,0.14166666666666666,2.7690650406504065
+"Huevo Rojo Grande, Huevos Pequeños Economicos Rojos",Huevo Blanco Grande,0.020464187671574745,0.1694214876033058,2.704668927595404
+Huevo Blanco Grande,"Huevo Rojo Grande, Huevos Pequeños Economicos Rojos",0.020464187671574745,0.32669322709163345,2.7046689275954034
+"Huevo Rojo Grande, Huevo Blanco Grande","Huevo Extra Grande, Huevo Rojo Mediano",0.01697030197154979,0.272,2.704476426799008
+"Huevo Extra Grande, Huevo Rojo Mediano","Huevo Rojo Grande, Huevo Blanco Grande",0.01697030197154979,0.1687344913151365,2.7044764267990073
+"Huevo Blanco Mediano, Huevo Extra Grande","Huevo Rojo Grande, Huevo Blanco Grande",0.018717244821562267,0.16853932584269665,2.701348314606742
+"Huevo Rojo Grande, Huevo Blanco Grande","Huevo Blanco Mediano, Huevo Extra Grande",0.018717244821562267,0.3,2.7013483146067414
+"Huevo Extra Grande, Huevo Rojo Mediano",Huevo Blanco Grande,0.01697030197154979,0.1687344913151365,2.6937016203177366
+Huevo Blanco Grande,"Huevo Extra Grande, Huevo Rojo Mediano",0.01697030197154979,0.27091633466135456,2.6937016203177366
+"Huevo Blanco Mediano, Huevo Extra Grande",Huevo Blanco Grande,0.018717244821562267,0.16853932584269665,2.6905859707238466
+Huevo Blanco Grande,"Huevo Blanco Mediano, Huevo Extra Grande",0.018717244821562267,0.29880478087649404,2.690585970723846
+"Huevo Rojo Grande, Huevo Extra Grande","Huevo Blanco Mediano, Huevo Rojo Mediano, Huevo Blanco Grande",0.014225106064387321,0.11875,2.6582751396648043
+"Huevo Blanco Mediano, Huevo Rojo Mediano, Huevo Blanco Grande","Huevo Rojo Grande, Huevo Extra Grande",0.014225106064387321,0.3184357541899441,2.658275139664804
+"Huevo Blanco Mediano, Huevo Blanco Grande","Huevo Rojo Grande, Huevos Pequeños Economicos Rojos",0.017219865235837285,0.3150684931506849,2.6084286199479227
+"Huevo Rojo Grande, Huevos Pequeños Economicos Rojos","Huevo Blanco Mediano, Huevo Blanco Grande",0.017219865235837285,0.14256198347107438,2.6084286199479227
+"Huevo Extra Grande, Huevo Rojo Mediano","Huevo Blanco Mediano, Huevo Blanco Grande",0.014225106064387321,0.141439205955335,2.5878853801964716
+"Huevo Blanco Mediano, Huevo Rojo Grande, Huevo Blanco Grande","Huevo Extra Grande, Huevo Rojo Mediano",0.014225106064387321,0.2602739726027397,2.5878853801964716
+"Huevo Extra Grande, Huevo Rojo Mediano","Huevo Blanco Mediano, Huevo Rojo Grande, Huevo Blanco Grande",0.014225106064387321,0.141439205955335,2.5878853801964716
+"Huevo Blanco Mediano, Huevo Blanco Grande","Huevo Extra Grande, Huevo Rojo Mediano",0.014225106064387321,0.2602739726027397,2.5878853801964716
+"Huevos Pequeños Economicos Rojos, Huevo Rojo Mediano","Huevo Rojo Grande, Huevo Blanco Grande",0.015722485650112302,0.1590909090909091,2.549909090909091
+"Huevo Rojo Grande, Huevo Blanco Grande","Huevos Pequeños Economicos Rojos, Huevo Rojo Mediano",0.015722485650112302,0.25199999999999995,2.5499090909090905
+"Huevo Rojo Grande, Huevos Pequeños Economicos Rojos","Huevo Rojo Mediano, Huevo Blanco Grande",0.015722485650112302,0.13016528925619833,2.544255190485789
+"Huevo Rojo Mediano, Huevo Blanco Grande","Huevo Rojo Grande, Huevos Pequeños Economicos Rojos",0.015722485650112302,0.3073170731707317,2.544255190485789
+Huevo Blanco Grande,"Huevos Pequeños Economicos Rojos, Huevo Rojo Mediano",0.015722485650112302,0.2509960159362549,2.539750090546903
+"Huevos Pequeños Economicos Rojos, Huevo Rojo Mediano",Huevo Blanco Grande,0.015722485650112302,0.1590909090909091,2.539750090546903
+"Huevo Rojo Grande, Huevo Rojo Mediano, Huevo Blanco Grande","Huevo Blanco Mediano, Huevo Extra Grande",0.014225106064387321,0.27804878048780485,2.5036886818306385
+"Huevo Rojo Mediano, Huevo Blanco Grande","Huevo Blanco Mediano, Huevo Extra Grande",0.014225106064387321,0.27804878048780485,2.5036886818306385
+"Huevo Blanco Mediano, Huevo Extra Grande","Huevo Rojo Mediano, Huevo Blanco Grande",0.014225106064387321,0.12808988764044943,2.5036886818306385
+"Huevo Blanco Mediano, Huevo Extra Grande","Huevo Rojo Grande, Huevo Rojo Mediano, Huevo Blanco Grande",0.014225106064387321,0.12808988764044943,2.5036886818306385
+"Huevo Rojo Grande, Huevos Pequeños Economicos Rojos","Huevo Blanco Mediano, Huevo Rojo Mediano, Huevo Blanco Grande",0.013226853007237334,0.10950413223140495,2.4513019991689364
+"Huevo Blanco Mediano, Huevo Rojo Mediano, Huevo Blanco Grande","Huevo Rojo Grande, Huevos Pequeños Economicos Rojos",0.013226853007237334,0.2960893854748603,2.4513019991689364
+"Huevos Pequeños Economicos Rojos, Huevo Rojo Mediano","Huevo Blanco Mediano, Huevo Blanco Grande",0.013226853007237334,0.13383838383838384,2.44881463032148
+"Huevos Pequeños Economicos Rojos, Huevo Rojo Mediano","Huevo Blanco Mediano, Huevo Rojo Grande, Huevo Blanco Grande",0.013226853007237334,0.13383838383838384,2.44881463032148
+"Huevo Blanco Mediano, Huevo Blanco Grande","Huevos Pequeños Economicos Rojos, Huevo Rojo Mediano",0.013226853007237334,0.2420091324200913,2.4488146303214795
+"Huevo Blanco Mediano, Huevo Rojo Grande, Huevo Blanco Grande","Huevos Pequeños Economicos Rojos, Huevo Rojo Mediano",0.013226853007237334,0.2420091324200913,2.4488146303214795
+"Huevo Blanco Mediano, Huevos Pequeños Economicos Rojos","Huevo Rojo Grande, Huevo Blanco Grande",0.017219865235837285,0.14902807775377971,2.388622030237581
+"Huevo Rojo Grande, Huevo Blanco Grande","Huevo Blanco Mediano, Huevos Pequeños Economicos Rojos",0.017219865235837285,0.27599999999999997,2.3886220302375807
+"Huevo Blanco Mediano, Huevos Pequeños Economicos Rojos",Huevo Blanco Grande,0.017219865235837285,0.14902807775377971,2.379105607806356
+Huevo Blanco Grande,"Huevo Blanco Mediano, Huevos Pequeños Economicos Rojos",0.017219865235837285,0.2749003984063745,2.3791056078063555
+"Huevo Extra Grande, Huevo Blanco Grande",Huevo Rojo Grande,0.022211130521587224,1.0,2.3501466275659824
+"Huevo Rojo Mediano, Huevo Extra Grande, Huevo Blanco Grande",Huevo Rojo Grande,0.01697030197154979,1.0,2.3501466275659824
+"Huevo Blanco Mediano, Huevo Rojo Mediano, Huevo Extra Grande, Huevo Blanco Grande",Huevo Rojo Grande,0.014225106064387321,1.0,2.3501466275659824
+Huevo Rojo Grande,"Huevo Blanco Mediano, Huevo Rojo Mediano, Huevos Pequeños Economicos Rojos, Huevo Blanco Grande",0.013226853007237334,0.031085043988269792,2.3501466275659824
+"Huevo Blanco Mediano, Huevo Rojo Mediano, Huevos Pequeños Economicos Rojos, Huevo Blanco Grande",Huevo Rojo Grande,0.013226853007237334,1.0,2.3501466275659824
+"Huevo Rojo Mediano, Huevos Pequeños Economicos Rojos, Huevo Blanco Grande",Huevo Rojo Grande,0.015722485650112302,1.0,2.3501466275659824
+Huevo Rojo Grande,"Huevo Blanco Mediano, Huevo Rojo Mediano, Huevo Blanco Grande",0.044671824307461944,0.10498533724340176,2.3501466275659824
+Huevo Rojo Grande,"Huevo Blanco Mediano, Huevos Pequeños Economicos Rojos, Huevo Blanco Grande",0.017219865235837285,0.04046920821114369,2.3501466275659824
+"Huevo Blanco Mediano, Huevos Pequeños Economicos Rojos, Huevo Blanco Grande",Huevo Rojo Grande,0.017219865235837285,1.0,2.3501466275659824
+Huevo Rojo Grande,"Huevo Rojo Mediano, Huevo Blanco Grande",0.05116046917893686,0.12023460410557184,2.3501466275659824
+Huevo Rojo Grande,"Huevos Pequeños Economicos Rojos, Huevo Blanco Grande",0.020464187671574745,0.04809384164222874,2.3501466275659824
+"Huevo Blanco Mediano, Huevo Blanco Grande",Huevo Rojo Grande,0.054654354878961815,1.0,2.3501466275659824
+"Huevo Blanco Mediano, Huevo Rojo Mediano, Huevo Blanco Grande",Huevo Rojo Grande,0.044671824307461944,1.0,2.3501466275659824
+Huevo Rojo Grande,"Huevo Blanco Mediano, Huevo Extra Grande, Huevo Blanco Grande",0.018717244821562267,0.04398826979472141,2.3501466275659824
+"Huevo Blanco Mediano, Huevo Extra Grande, Huevo Blanco Grande",Huevo Rojo Grande,0.018717244821562267,1.0,2.3501466275659824
+Huevo Rojo Grande,"Huevo Extra Grande, Huevo Blanco Grande",0.022211130521587224,0.05219941348973607,2.3501466275659824
+"Huevos Pequeños Economicos Rojos, Huevo Blanco Grande",Huevo Rojo Grande,0.020464187671574745,1.0,2.3501466275659824
+"Huevo Rojo Mediano, Huevo Blanco Grande",Huevo Rojo Grande,0.05116046917893686,1.0,2.3501466275659824
+Huevo Rojo Grande,"Huevo Rojo Mediano, Huevo Extra Grande, Huevo Blanco Grande",0.01697030197154979,0.03988269794721407,2.350146627565982
+Huevo Rojo Grande,"Huevo Blanco Mediano, Huevo Rojo Mediano, Huevo Extra Grande, Huevo Blanco Grande",0.014225106064387321,0.033431085043988264,2.350146627565982
+Huevo Rojo Grande,"Huevo Blanco Mediano, Huevo Blanco Grande",0.054654354878961815,0.12844574780058648,2.350146627565982
+Huevo Rojo Grande,"Huevo Rojo Mediano, Huevos Pequeños Economicos Rojos, Huevo Blanco Grande",0.015722485650112302,0.036950146627565975,2.350146627565982
+Huevo Rojo Grande,Huevo Blanco Grande,0.062390816071874224,0.1466275659824047,2.340783493591616
+Huevo Blanco Grande,Huevo Rojo Grande,0.062390816071874224,0.9960159362549801,2.3407834935916156
+"Huevo Rojo Mediano, Huevo Blanco Grande","Huevo Blanco Mediano, Huevos Pequeños Economicos Rojos",0.013226853007237334,0.25853658536585367,2.2374861718379604
+"Huevo Blanco Mediano, Huevos Pequeños Economicos Rojos","Huevo Rojo Mediano, Huevo Blanco Grande",0.013226853007237334,0.1144708423326134,2.2374861718379604
+"Huevo Rojo Grande, Huevo Rojo Mediano, Huevo Blanco Grande","Huevo Blanco Mediano, Huevos Pequeños Economicos Rojos",0.013226853007237334,0.25853658536585367,2.2374861718379604
+"Huevo Blanco Mediano, Huevos Pequeños Economicos Rojos","Huevo Rojo Grande, Huevo Rojo Mediano, Huevo Blanco Grande",0.013226853007237334,0.1144708423326134,2.2374861718379604
+Huevo Blanco Mediano,"Huevo Rojo Grande, Huevo Blanco Grande",0.054654354878961815,0.13402692778457773,2.1481835985312117
+"Huevo Rojo Grande, Huevo Blanco Grande",Huevo Blanco Mediano,0.054654354878961815,0.8759999999999999,2.1481835985312117
+Huevo Rojo Mediano,"Huevo Rojo Grande, Huevo Blanco Grande",0.05116046917893686,0.13381201044386423,2.1447389033942557
+"Huevo Rojo Grande, Huevo Blanco Grande",Huevo Rojo Mediano,0.05116046917893686,0.82,2.1447389033942557
+Huevo Blanco Mediano,"Huevo Rojo Grande, Huevo Rojo Mediano, Huevo Blanco Grande",0.044671824307461944,0.10954712362301103,2.1412454846702693
+"Huevo Rojo Grande, Huevo Rojo Mediano, Huevo Blanco Grande",Huevo Blanco Mediano,0.044671824307461944,0.8731707317073172,2.1412454846702693
+"Huevo Rojo Mediano, Huevo Blanco Grande",Huevo Blanco Mediano,0.044671824307461944,0.8731707317073172,2.1412454846702693
+Huevo Blanco Mediano,"Huevo Rojo Mediano, Huevo Blanco Grande",0.044671824307461944,0.10954712362301103,2.1412454846702693
+Huevo Blanco Mediano,Huevo Blanco Grande,0.054654354878961815,0.13402692778457773,2.139625098138657
+Huevo Blanco Grande,Huevo Blanco Mediano,0.054654354878961815,0.8725099601593624,2.139625098138657
+"Huevo Blanco Mediano, Huevo Blanco Grande",Huevo Rojo Mediano,0.044671824307461944,0.817351598173516,2.137811915066109
+Huevo Rojo Mediano,"Huevo Blanco Mediano, Huevo Blanco Grande",0.044671824307461944,0.11684073107049608,2.137811915066109
+"Huevo Blanco Mediano, Huevo Rojo Grande, Huevo Blanco Grande",Huevo Rojo Mediano,0.044671824307461944,0.817351598173516,2.137811915066109
+Huevo Rojo Mediano,"Huevo Blanco Mediano, Huevo Rojo Grande, Huevo Blanco Grande",0.044671824307461944,0.11684073107049608,2.137811915066109
+Huevo Blanco Grande,Huevo Rojo Mediano,0.05116046917893686,0.8167330677290836,2.136194126886709
+Huevo Rojo Mediano,Huevo Blanco Grande,0.05116046917893686,0.13381201044386423,2.136194126886709
+"Huevo Rojo Grande, Huevo Extra Grande, Huevo Blanco Grande",Huevo Blanco Mediano,0.018717244821562267,0.8426966292134831,2.066514928554729
+Huevo Blanco Mediano,"Huevo Rojo Grande, Huevo Extra Grande, Huevo Blanco Grande",0.018717244821562267,0.04589963280293758,2.066514928554729
+"Huevo Extra Grande, Huevo Blanco Grande",Huevo Blanco Mediano,0.018717244821562267,0.8426966292134831,2.066514928554729
+Huevo Blanco Mediano,"Huevo Extra Grande, Huevo Blanco Grande",0.018717244821562267,0.04589963280293758,2.066514928554729
+"Huevos Pequeños Economicos Rojos, Huevo Blanco Grande",Huevo Blanco Mediano,0.017219865235837285,0.8414634146341463,2.0634907603666
+Huevo Blanco Mediano,"Huevos Pequeños Economicos Rojos, Huevo Blanco Grande",0.017219865235837285,0.04222766217870257,2.0634907603666
+Huevo Blanco Mediano,"Huevo Rojo Grande, Huevos Pequeños Economicos Rojos, Huevo Blanco Grande",0.017219865235837285,0.04222766217870257,2.0634907603666
+"Huevo Rojo Grande, Huevos Pequeños Economicos Rojos, Huevo Blanco Grande",Huevo Blanco Mediano,0.017219865235837285,0.8414634146341463,2.0634907603666
+Huevo Blanco Mediano,"Huevo Rojo Grande, Huevo Rojo Mediano, Huevos Pequeños Economicos Rojos, Huevo Blanco Grande",0.013226853007237334,0.03243574051407589,2.0630160673000333
+"Huevo Rojo Grande, Huevo Rojo Mediano, Huevos Pequeños Economicos Rojos, Huevo Blanco Grande",Huevo Blanco Mediano,0.013226853007237334,0.8412698412698413,2.0630160673000333
+Huevo Blanco Mediano,"Huevo Rojo Mediano, Huevos Pequeños Economicos Rojos, Huevo Blanco Grande",0.013226853007237334,0.03243574051407589,2.0630160673000333
+"Huevo Rojo Mediano, Huevos Pequeños Economicos Rojos, Huevo Blanco Grande",Huevo Blanco Mediano,0.013226853007237334,0.8412698412698413,2.0630160673000333
+Huevo Blanco Mediano,"Huevo Rojo Grande, Huevo Rojo Mediano, Huevo Extra Grande, Huevo Blanco Grande",0.014225106064387321,0.03488372093023256,2.0555745554035565
+"Huevo Rojo Grande, Huevo Rojo Mediano, Huevo Extra Grande, Huevo Blanco Grande",Huevo Blanco Mediano,0.014225106064387321,0.838235294117647,2.0555745554035565
+"Huevo Rojo Mediano, Huevo Extra Grande, Huevo Blanco Grande",Huevo Blanco Mediano,0.014225106064387321,0.838235294117647,2.0555745554035565
+Huevo Blanco Mediano,"Huevo Rojo Mediano, Huevo Extra Grande, Huevo Blanco Grande",0.014225106064387321,0.03488372093023256,2.0555745554035565
+Huevo Rojo Mediano,"Huevos Pequeños Economicos Rojos, Huevo Blanco Grande",0.015722485650112302,0.041122715404699736,2.009496593007705
+"Huevos Pequeños Economicos Rojos, Huevo Blanco Grande",Huevo Rojo Mediano,0.015722485650112302,0.7682926829268292,2.009496593007705
+"Huevo Rojo Grande, Huevos Pequeños Economicos Rojos, Huevo Blanco Grande",Huevo Rojo Mediano,0.015722485650112302,0.7682926829268292,2.009496593007705
+Huevo Rojo Mediano,"Huevo Rojo Grande, Huevos Pequeños Economicos Rojos, Huevo Blanco Grande",0.015722485650112302,0.041122715404699736,2.009496593007705
+Huevo Rojo Mediano,"Huevo Blanco Mediano, Huevo Rojo Grande, Huevos Pequeños Economicos Rojos, Huevo Blanco Grande",0.013226853007237334,0.034595300261096605,2.0090343209596244
+"Huevo Blanco Mediano, Huevo Rojo Grande, Huevos Pequeños Economicos Rojos, Huevo Blanco Grande",Huevo Rojo Mediano,0.013226853007237334,0.7681159420289855,2.0090343209596244
+Huevo Rojo Mediano,"Huevo Blanco Mediano, Huevos Pequeños Economicos Rojos, Huevo Blanco Grande",0.013226853007237334,0.034595300261096605,2.0090343209596244
+"Huevo Blanco Mediano, Huevos Pequeños Economicos Rojos, Huevo Blanco Grande",Huevo Rojo Mediano,0.013226853007237334,0.7681159420289855,2.0090343209596244
+Huevo Rojo Mediano,"Huevo Rojo Grande, Huevo Extra Grande, Huevo Blanco Grande",0.01697030197154979,0.044386422976501305,1.9983864816498957
+"Huevo Rojo Grande, Huevo Extra Grande, Huevo Blanco Grande",Huevo Rojo Mediano,0.01697030197154979,0.7640449438202247,1.9983864816498957
+Huevo Rojo Mediano,"Huevo Extra Grande, Huevo Blanco Grande",0.01697030197154979,0.044386422976501305,1.9983864816498957
+"Huevo Extra Grande, Huevo Blanco Grande",Huevo Rojo Mediano,0.01697030197154979,0.7640449438202247,1.9983864816498957
+Huevo Rojo Mediano,"Huevo Blanco Mediano, Huevo Extra Grande, Huevo Rojo Grande, Huevo Blanco Grande",0.014225106064387321,0.03720626631853786,1.9878067885117492
+Huevo Rojo Mediano,"Huevo Blanco Mediano, Huevo Extra Grande, Huevo Blanco Grande",0.014225106064387321,0.03720626631853786,1.9878067885117492
+"Huevo Blanco Mediano, Huevo Extra Grande, Huevo Blanco Grande",Huevo Rojo Mediano,0.014225106064387321,0.7599999999999999,1.987806788511749
+"Huevo Blanco Mediano, Huevo Extra Grande, Huevo Rojo Grande, Huevo Blanco Grande",Huevo Rojo Mediano,0.014225106064387321,0.7599999999999999,1.987806788511749
+Huevo Rojo Grande,"Huevo Blanco Mediano, Huevos Pequeños Economicos Rojos, Huevo Rojo Mediano",0.019715497878712254,0.04633431085043988,1.3752709894645376
+"Huevo Blanco Mediano, Huevos Pequeños Economicos Rojos, Huevo Rojo Mediano",Huevo Rojo Grande,0.019715497878712254,0.5851851851851851,1.3752709894645376
+"Huevo Blanco Mediano, Huevo Extra Grande, Huevo Rojo Mediano",Huevo Rojo Grande,0.018218118292987272,0.5793650793650794,1.361592887399339
+Huevo Rojo Grande,"Huevo Blanco Mediano, Huevo Extra Grande, Huevo Rojo Mediano",0.018218118292987272,0.042815249266862164,1.361592887399339
+Huevo Blanco Mediano,"Huevo Rojo Grande, Huevos Pequeños Economicos Rojos, Huevo Rojo Mediano",0.019715497878712254,0.048347613219094254,1.3547474557266481
+"Huevo Rojo Grande, Huevos Pequeños Economicos Rojos, Huevo Rojo Mediano",Huevo Blanco Mediano,0.019715497878712254,0.5524475524475524,1.354747455726648
+Huevo Rojo Grande,"Huevo Blanco Mediano, Huevo Rojo Mediano",0.07811330172198652,0.18357771260997066,1.2860068084408258
+"Huevo Blanco Mediano, Huevo Rojo Mediano",Huevo Rojo Grande,0.07811330172198652,0.5472027972027972,1.2860068084408258
+Huevo Blanco Mediano,"Huevo Rojo Grande, Huevo Rojo Mediano",0.07811330172198652,0.1915544675642595,1.2500956865309247
+"Huevo Rojo Grande, Huevo Rojo Mediano",Huevo Blanco Mediano,0.07811330172198652,0.509771986970684,1.2500956865309247
+Huevo Blanco Mediano,"Huevo Rojo Grande, Huevo Extra Grande, Huevo Rojo Mediano",0.018218118292987272,0.04467564259485924,1.201444965621483
+"Huevo Rojo Grande, Huevo Extra Grande, Huevo Rojo Mediano",Huevo Blanco Mediano,0.018218118292987272,0.4899328859060402,1.201444965621483
+"Huevo Rojo Grande, Huevos Pequeños Economicos Rojos","Huevo Blanco Mediano, Huevo Rojo Mediano",0.019715497878712254,0.16322314049586778,1.1434180488932555
+"Huevo Blanco Mediano, Huevo Rojo Mediano","Huevo Rojo Grande, Huevos Pequeños Economicos Rojos",0.019715497878712254,0.1381118881118881,1.1434180488932555
+"Huevo Blanco Mediano, Huevos Pequeños Economicos Rojos","Huevo Rojo Grande, Huevo Rojo Mediano",0.019715497878712254,0.17062634989200864,1.1135175635460564
+"Huevo Rojo Grande, Huevo Rojo Mediano","Huevo Blanco Mediano, Huevos Pequeños Economicos Rojos",0.019715497878712254,0.12866449511400652,1.1135175635460564
+Huevo Rojo Mediano,"Huevo Blanco Mediano, Huevo Rojo Grande",0.07811330172198652,0.20430809399477806,1.1018338258910845
+"Huevo Blanco Mediano, Huevo Rojo Grande",Huevo Rojo Mediano,0.07811330172198652,0.42126514131897713,1.1018338258910845
+Huevo Rojo Grande,"Huevo Blanco Mediano, Huevo Extra Grande",0.051410032443224354,0.12082111436950145,1.0879330455698704
+"Huevo Blanco Mediano, Huevo Extra Grande",Huevo Rojo Grande,0.051410032443224354,0.46292134831460674,1.0879330455698704
+"Huevos Pequeños Economicos Rojos, Huevo Rojo Mediano","Huevo Blanco Mediano, Huevo Rojo Grande",0.019715497878712254,0.1994949494949495,1.0758765311255218
+"Huevo Blanco Mediano, Huevo Rojo Grande","Huevos Pequeños Economicos Rojos, Huevo Rojo Mediano",0.019715497878712254,0.1063257065948856,1.0758765311255218
+"Huevo Blanco Mediano, Huevo Extra Grande","Huevo Rojo Grande, Huevo Rojo Mediano",0.018218118292987272,0.16404494382022472,1.0705669216411082
+"Huevo Rojo Grande, Huevo Rojo Mediano","Huevo Blanco Mediano, Huevo Extra Grande",0.018218118292987272,0.11889250814332246,1.070566921641108
+Huevo Rojo Grande,Huevo Blanco Mediano,0.18542550536561017,0.4357771260997067,1.0686407247744951
+Huevo Blanco Mediano,Huevo Rojo Grande,0.18542550536561017,0.45471236230110157,1.068640724774495
+"Huevo Blanco Mediano, Huevo Rojo Mediano","Huevo Rojo Grande, Huevo Extra Grande",0.018218118292987272,0.1276223776223776,1.0653809731934731
+"Huevo Rojo Grande, Huevo Extra Grande","Huevo Blanco Mediano, Huevo Rojo Mediano",0.018218118292987272,0.15208333333333332,1.0653809731934731
+Huevo Blanco Mediano,"Huevo Rojo Grande, Huevo Extra Grande",0.051410032443224354,0.12607099143206854,1.0524301305589556
+"Huevo Rojo Grande, Huevo Extra Grande",Huevo Blanco Mediano,0.051410032443224354,0.42916666666666664,1.0524301305589556
+"Huevo Rojo Grande, Huevo Blanco Grande",Huevo Extra Grande,0.022211130521587224,0.356,1.0397172011661808
+Huevo Extra Grande,"Huevo Rojo Grande, Huevo Blanco Grande",0.022211130521587224,0.06486880466472304,1.0397172011661808
+Huevo Blanco Grande,Huevo Extra Grande,0.022211130521587224,0.3545816733067729,1.0355749015599411
+Huevo Extra Grande,Huevo Blanco Grande,0.022211130521587224,0.06486880466472304,1.0355749015599411
+"Huevo Blanco Mediano, Huevo Rojo Grande, Huevos Pequeños Economicos Rojos",Huevo Rojo Mediano,0.019715497878712254,0.39303482587064675,1.027996440772638
+Huevo Rojo Mediano,"Huevo Blanco Mediano, Huevo Rojo Grande, Huevos Pequeños Economicos Rojos",0.019715497878712254,0.05156657963446475,1.027996440772638
+"Huevo Blanco Mediano, Huevos Pequeños Economicos Rojos",Huevo Rojo Grande,0.050162216121786875,0.4341252699784018,1.0202580391809126
+Huevo Rojo Grande,"Huevo Blanco Mediano, Huevos Pequeños Economicos Rojos",0.050162216121786875,0.11788856304985337,1.0202580391809124
+Huevo Blanco Mediano,"Huevo Rojo Grande, Huevos Pequeños Economicos Rojos",0.050162216121786875,0.12301101591187272,1.0183990511546983
+"Huevo Rojo Grande, Huevos Pequeños Economicos Rojos",Huevo Blanco Mediano,0.050162216121786875,0.41528925619834717,1.0183990511546983
+Huevo Extra Grande,"Huevo Blanco Mediano, Huevo Rojo Grande, Huevo Blanco Grande",0.018717244821562267,0.05466472303206998,1.0001897040616639
+"Huevo Blanco Mediano, Huevo Rojo Grande, Huevo Blanco Grande",Huevo Extra Grande,0.018717244821562267,0.34246575342465757,1.0001897040616639
+"Huevo Blanco Mediano, Huevo Blanco Grande",Huevo Extra Grande,0.018717244821562267,0.34246575342465757,1.0001897040616639
+Huevo Extra Grande,"Huevo Blanco Mediano, Huevo Blanco Grande",0.018717244821562267,0.05466472303206998,1.0001897040616639
